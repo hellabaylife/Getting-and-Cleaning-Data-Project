@@ -19,6 +19,6 @@ The files within this project are as follows:
 
         4th: Appropriately labels the data set with descriptive variable names. 
 
-        5th: From the data set created at the end of the 4th step, creates a second, independent tidy data set with the average of each           variable   for each activity and each subject.
+        5th: From the data set created at the end of the 4th step, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 3: FinalData.txt is the exported final data after going through all the sequences described above.
